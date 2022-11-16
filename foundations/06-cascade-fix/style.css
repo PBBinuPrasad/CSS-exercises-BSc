@@ -13,13 +13,10 @@ body{
 }
 
 .small-para {
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 800;
 }
 
-.para {
-  font-size: 22px;
-}
 
 button.confirm {
   background: green;
